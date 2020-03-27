@@ -1,0 +1,186 @@
+/***************************************TAG SELECTOR'S***************************************/
+
+a {
+    color: #119993;
+    font-family: "Merriweather", serif;
+    margin: 15px 20px;
+}
+
+a:hover {
+    color: #eaf6f6;
+}
+
+
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Dancing Script", cursive;
+  font-size: 4rem;
+  color: #66bfbf;
+}
+
+h2 {
+  font-family: "Lobster", cursive;
+  color: #66bfbf;
+  font-weight: normal;
+  font-size: 2rem;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: "Lobster", cursive;
+  color: #11999e;
+}
+
+hr {
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+}
+
+/***************************************CLASS SELECTOR'S***************************************/
+
+.top-container {
+  padding-top: 100px;
+  background-color: #e4f9f5;
+}
+
+.first-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.second-cloud {
+  position: absolute;
+  left: 300px;
+}
+
+/*---------------------------------------MIDDLE-CONTAINER--------------------------------------*/
+.middle-container {
+  margin: 0 auto 100px;
+  padding: 30px 200px;
+  background-color: #ffffff;
+}
+
+.skills {
+  margin: 100px auto;
+}
+
+.profile {
+  margin: 70px 0;
+  line-height: 1.5;
+}
+
+.skill-row {
+  width: 60%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.portrait {
+  border-radius: 100%;
+  width: 15%;
+  background-color: #dee3e2;
+  margin: 0 auto 20px;
+}
+
+.kayak-background {
+  background-color: darkviolet;
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%;
+}
+
+.skill-picture {
+  width: 10rem;
+  border-radius: 50%;
+}
+
+.code-picture {
+  float: left;
+  margin: 10px 30px 80px 0;
+}
+
+.football-player {
+  float: right;
+  margin: 10px 0 80px 30px;
+  background-color: #639a67;
+}
+
+.kayak-picture {
+  float: left;
+  margin: 10px 30px 80px 0;
+  background-color: darkviolet;
+}
+
+.contact-me {
+  margin: 100px auto 0;
+}
+
+.contact-message {
+  margin: 40px auto 60px;
+}
+
+.button {
+  color: rgb(230, 230, 230);
+  font-size: 20px;
+  padding: 14px;
+  text-shadow: 0px 0px 0px rgba(30, 30, 30, 0.8);
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+  background: rgb(17, 205, 212);
+  background: -moz-linear-gradient(
+    90deg,
+    rgb(17, 205, 212) 29%,
+    rgb(17, 153, 158) 70%
+  );
+  background: -webkit-linear-gradient(
+    90deg,
+    rgb(17, 205, 212) 29%,
+    rgb(17, 153, 158) 70%
+  );
+  background: -o-linear-gradient(
+    90deg,
+    rgb(17, 205, 212) 29%,
+    rgb(17, 153, 158) 70%
+  );
+  background: -ms-linear-gradient(
+    90deg,
+    rgb(17, 205, 212) 29%,
+    rgb(17, 153, 158) 70%
+  );
+  background: linear-gradient(
+    0deg,
+    rgb(17, 205, 212) 29%,
+    rgb(17, 153, 158) 70%
+  );
+  -webkit-box-shadow: 0px 2px 4px rgba(50, 50, 50, 0.52);
+  -moz-box-shadow: 0px 2px 4px rgba(50, 50, 50, 0.52);
+  box-shadow: 0px 2px 4px rgba(50, 50, 50, 0.52);
+}
+
+.button:hover {
+    background: #30e3cb;    
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 30px 0 5px;
+}
+
+.copyright {
+    color: #eaf6f6;
+    padding: 10px 0;
+    font-size: 0.75rem;
+}
+
+/***************************************CLASS SELECTOR'S***************************************/
